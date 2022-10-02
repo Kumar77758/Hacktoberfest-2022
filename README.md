@@ -41,7 +41,7 @@ _It is open to everyone in our global community. Whether you’re a developer, s
 ## 🚀 _Steps to Contribute_
 
 #### <b>_1. Fork this repo🍴_</b>
-#### <b>_2. Add _Any Quote that you like_ </><b>
+#### <b>_2. Add _Any Quote that you like in Quote.md_ </><b>
 #### <b>_3. Star⭐ this repo_</b>
 #### <b>_4. Make a PR🔁_</b>
 <br>
