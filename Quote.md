@@ -15,6 +15,11 @@ Quote: "Code is like humor. When you have to explain it, it’s bad."
 Name: Akash Ajay Salvi
 Quote: "Java is to JavaScript what car is to Carpet."
 ```
+
+```
+Name: Aniket Motirale
+Quote: "Fix the cause, not the symptom."
+```
   
   
 </b>
