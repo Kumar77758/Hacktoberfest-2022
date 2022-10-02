@@ -6,9 +6,9 @@ _<h1 align="center"> Hacktoberfest 2022</h1>_
    <a href="https://hacktoberfest.digitalocean.com/">
             <img src="https://img.shields.io/badge/Hacktoberfest%202022-Win%20a%20T--Shirt%20OR%20Plant%20a%20Tree-critical"></img>
 </a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/anupam-kumar-krishnan/Competitive---Programming-DSA-450"></a>
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/anupam-kumar-krishnan/Competitive---Programming-DSA-450"></a>
-   <img alt="GitHub issues" src="https://img.shields.io/github/issues/anupam-kumar-krishnan/Competitive---Programming-DSA-450"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/Kumar77758/Hacktoberfest-2022"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Kumar77758/Hacktoberfest-2022"></a>
+   <img alt="GitHub issues" src="https://img.shields.io/github/issues/Kumar77758/Hacktoberfest-2022"></a>
 
 </p>
 <br>
