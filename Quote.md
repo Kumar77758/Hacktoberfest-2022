@@ -25,4 +25,9 @@ Quote: "Fix the cause, not the symptom."
 Name: Rui Silva
 Quote: "There are only two hard things in Computer Science: cache invalidation and naming things."
 ```
+  
+```
+Name: Paarth Kothari
+Quote: while(!(succeed = try()));
+  
 </b>
