@@ -36,4 +36,14 @@ Name: Himanshu Dadheech
 Quote: "Declare variables,not war."  
 ```
 
+```
+Name: Amitesh Pandey
+Quote: "Work hard in silence, let success makes the noise"
+```
+  
+```
+Name: Aviral Dixit
+Quote: "Talk is cheap. Show me the code."
+```
+
 </b>
