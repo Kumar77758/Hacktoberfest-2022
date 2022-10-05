@@ -30,6 +30,11 @@ Quote: "There are only two hard things in Computer Science: cache invalidation a
 Name: Paarth Kothari
 Quote: while(!(succeed = try()));
 ```
+
+```
+Name: Amitesh Pandey
+Quote: "Work hard in silence, let success makes the noise"
+```
   
 ```
 Name: Aviral Dixit
