@@ -29,5 +29,10 @@ Quote: "There are only two hard things in Computer Science: cache invalidation a
 ```
 Name: Paarth Kothari
 Quote: while(!(succeed = try()));
+```
   
+```
+Name: Aviral Dixit
+Quote: "Talk is cheap. Show me the code."
+```
 </b>
