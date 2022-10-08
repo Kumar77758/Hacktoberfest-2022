@@ -46,4 +46,9 @@ Name: Aviral Dixit
 Quote: "Talk is cheap. Show me the code."
 ```
 
+```
+Name: Abhishek ROut
+Quote: "Writing code to read quotes about writing code."
+```
+
 </b>
