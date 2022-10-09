@@ -45,6 +45,12 @@ Quote: "Work hard in silence, let success makes the noise"
 Name: Aviral Dixit
 Quote: "Talk is cheap. Show me the code."
 ```
+  
+```
+Name: Jayaditya Mishra
+Quote: "There are two ways to write error-free programs; only the third works."
+```
+  
 
 ```
 Name: Abhishek ROut
