@@ -56,5 +56,9 @@ Quote: "There are two ways to write error-free programs; only the third works."
 Name: Abhishek ROut
 Quote: "Writing code to read quotes about writing code."
 ```
-
+  
+```
+Name: Rachana Salvi
+Quote: "Make it work, make it right, make it fast."
+```
 </b>
