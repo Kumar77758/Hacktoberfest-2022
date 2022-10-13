@@ -67,4 +67,9 @@ Name: Motirale
 Quote: "Algorithm: Word used by programmers when they don’t want to explain what they did."
 ``` 
   
+```
+Name: Sambhaji Shendge
+Quote: "The only way to learn a new programming language is by writing programs in it"
+``` 
+  
 </b>
