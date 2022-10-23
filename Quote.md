@@ -66,9 +66,10 @@ Quote: "Make it work, make it right, make it fast."
 Name: Motirale
 Quote: "Algorithm: Word used by programmers when they don’t want to explain what they did."
 ``` 
-  </>
-  Name:Sanjana Purbia
-  Quote: "Live every moment because little things matter"
-  </>
+  
+```
+Name:Sanjana Purbia
+Quote: "Live every moment because little things matter"
+```
   
 </b>
