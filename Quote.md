@@ -65,6 +65,11 @@ Quote: "Make it work, make it right, make it fast."
  ```
 Name: Motirale
 Quote: "Algorithm: Word used by programmers when they don’t want to explain what they did."
+```
+
+```
+Name: Ishaan
+Quote: “A good programmer is someone who always looks both ways before crossing a one-way street.”
 ``` 
   
 </b>
